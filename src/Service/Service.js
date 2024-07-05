@@ -1,5 +1,5 @@
 
-// weather api for fetching weather data====>
+// weather api for fetching weather data=======>
 
 // export const getWeatherData = async (location) => {
 //   if (!location || location.trim() === '') {
