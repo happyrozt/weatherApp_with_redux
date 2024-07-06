@@ -7,7 +7,7 @@ import Loader from './Components/Loader';
 
 
 function App() {
-  const loader = useSelector((state)=>state.allWeatherState.loader)
+  const loader = useSelector((state)=>state.weather.loader)
 
   return (
     <div className='App-container'>
